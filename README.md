@@ -11,8 +11,6 @@ Languages to go over:
 	PHP
 	SQL
 	NoSQL
-	C
-	C++
 	C#
 	Lua
 	Rust
